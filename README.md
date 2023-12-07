@@ -1,6 +1,6 @@
 # python-api-Challenge
 
-This challenge was created to test out abilities to utilize api's and json
+This challenge was created to test our abilities to utilize api's and json
 
 We were told to utilize the weather api on over 500 cities to find these criteria.
 City, Latitude, Longitude, Max Temp, Humidity, Cloudiness, Wind Speed, Country and Date
